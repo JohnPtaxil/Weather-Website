@@ -7,6 +7,10 @@
 
 ## 🌤️ Weather App
 
+  <br>
+  <img src="88575103-b332-43f3-abbc-1bcd3e2a4e9b.png" alt="Weather App - Dublin" width="800"/>
+  <br>
+
   A small and simple website that shows the current weather of a selected city or country using live data from the OpenWeatherMap API.
 
   <details>
