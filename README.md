@@ -6,7 +6,7 @@
 ## Description:
 
   <details>
-    ## 🌤️ <summary> Weather App </summary>
+    <summary> ## 🌤️ Weather App </summary>
     <img src="https://raw.githubusercontent.com/JohnPtaxil/Weather-Website/main/images/image.png" alt="Image of Home Page (Logged In)" width="800" />
   </details>
 
