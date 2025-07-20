@@ -7,8 +7,7 @@
 
 ## 🌤️ Weather App
 <details>
-  <img src="[https://github.com/user-attachments/assets/2e175443-a919-469c-a64a-0e892ab0cec3](https://raw.githubusercontent.com/JohnPtaxil/Weather-Website/main/images/image.png)" alt="Image of Home Page (Logged In)" width="800" />
-  ![Weather Image]()
+  <img src="https://raw.githubusercontent.com/JohnPtaxil/Weather-Website/main/images/image.png" alt="Image of Home Page (Logged In)" width="800" />
 </details>
 
 
