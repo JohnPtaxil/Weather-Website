@@ -6,11 +6,10 @@
 ## Description:
 
 ## 🌤️ Weather App
+<details>
+  ![Weather Image](https://raw.githubusercontent.com/JohnPtaxil/Weather-Website/main/images/image.png)
+</details>
 
-  <br>
-  <img src="https://raw.githubusercontent.com/JohnPtaxil/Weather-Website/main/images/image.png" alt="Image of Weather Website" width="800" />
-
-  <br>
 
   A small and simple website that shows the current weather of a selected city or country using live data from the OpenWeatherMap API.
 
