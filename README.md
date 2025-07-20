@@ -8,7 +8,7 @@
 ## 🌤️ Weather App
 
   <br>
-  ![Weather Image](https://raw.githubusercontent.com/JohnPtaxil/Weather-Website/main/images/image.png)
+  <img src="https://raw.githubusercontent.com/JohnPtaxil/Weather-Website/main/images/image.png" alt="Image of Weather Website" width="800" />
 
   <br>
 
