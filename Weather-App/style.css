@@ -70,6 +70,31 @@ button {
     justify-content: space-between;
 }
 
+/* Style the scrollbar track */
+#hourly-forecast::-webkit-scrollbar {
+    height: 10px; /* Height of the horizontal scrollbar */
+    background-color: rgba(255, 255, 255, 0.1); /* Transparent background */
+    border-radius: 10px; /* Rounded corners */
+    margin-top: 50px;
+}
+
+/* Style the scrollbar thumb (the draggable part) */
+#hourly-forecast::-webkit-scrollbar-thumb {
+    background: #debff4; /* Light purple color */
+    border-radius: 10px; /* Rounded corners */
+    border: 2px solid rgba(255, 255, 255, 0.2); /* White border for contrast */
+}
+
+/* Style the scrollbar thumb on hover */
+#hourly-forecast::-webkit-scrollbar-thumb:hover {
+    background: #c7a0e0; /* Slightly darker purple on hover */
+}
+
+/* Style the scrollbar buttons (arrows) */
+#hourly-forecast::-webkit-scrollbar-button {
+    display: none; /* Hide the buttons (optional) */
+}
+
 #hourly-item {
     flex: 0 0 auto;
     width: 80px;
