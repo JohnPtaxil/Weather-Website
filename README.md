@@ -8,7 +8,8 @@
 ## 🌤️ Weather App
 
   <br>
-  https://github.com/JohnPtaxil/Weather-Website/blob/main/images/image.png
+  ![Weather Image](https://raw.githubusercontent.com/JohnPtaxil/Weather-Website/main/images/image.png)
+
   <br>
 
   A small and simple website that shows the current weather of a selected city or country using live data from the OpenWeatherMap API.
