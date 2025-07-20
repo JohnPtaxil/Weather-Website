@@ -3,12 +3,7 @@
 **Date:** 24/03/25  
 **Author:** John Patacsil
 
-## Description
-
-<details>
-  <summary>Click to expand</summary>
-
-  <br>
+## Description:
 
 ## 🌤️ Weather App
 
